@@ -14,6 +14,8 @@
 ✔ **Detailed Sales Page** with transaction-level data <br>
 ✔ Interactive **slicers** for Body Style, Dealer, Transmission, and Model <br>
 
+---
+
 ### 🛠 **Skills & Tools Used**
 
 * **Power BI Desktop**
@@ -21,6 +23,8 @@
 * **DAX Measures** for generating KPIs
 * Data Visualization (Maps, Donut charts, Line charts, Bar charts)
 * Dashboard UI/UX design
+
+---
 
 ### 🎯 **Outcome**
 
